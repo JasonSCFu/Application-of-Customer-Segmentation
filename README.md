@@ -10,7 +10,7 @@ Let’s start with simple definition of Segmentation or Clustering. In simple te
 
 
 
-## Issue of segmentation in real business application ##
+## Issue of applying segmentation in real business ##
 
 I use a public dataset from [Kaggle](https://www.kaggle.com/code/paulinan/bank-customer-segmentation/data) to walk through the application of segmentation methods to banking customer base. Using segmentation to group similar customers into groups are not new. But in real business application, I often came across the following questions when I try to interpret the result to business.
 
